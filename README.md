@@ -1,1 +1,1 @@
-# tech-setter
+# TripZy
